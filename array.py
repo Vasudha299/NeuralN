@@ -1,3 +1,5 @@
+"""Creating an image with Numpy"""
+
 import numpy as np 
 from PIL import Image
 a=np.zeros([4])
