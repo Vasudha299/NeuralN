@@ -1,3 +1,5 @@
+""""Reading an Image and making changes in it (picture of a dog)"""
+
 import numpy as np
 from PIL import Image
 oim=Image.open('dog.jpg')
