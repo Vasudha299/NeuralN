@@ -1,3 +1,6 @@
+""" The dataset is used to make_circles from scikit-learn . It’s a toy dataset containing a large circle with a smaller circle in a two-dimensional plane and two features.
+For our demonstration, we used 10,000 samples and added a 0.05 standard deviation."""
+
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_circles
 from sklearn.model_selection import train_test_split
